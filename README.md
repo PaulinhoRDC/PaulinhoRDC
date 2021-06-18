@@ -41,8 +41,28 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 <h2 align="left">📈 My GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinhordc&theme=dark&show_icons=true&locale=en&layout=compact" alt="paulinhordc" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=paulinhordc&theme=dark&count_private=true&show_icons=true" alt="paulinhordc" width="50%"/>
-  
- 
+
+
+### 💻 Repositórios do curso Ciências da Computação na UMinho 💻
+__________________________
+### Primeiro ano 
+
+- [Laboratórios de Algoritmia I](https://github.com/PaulinhoRDC/LaboratoriosDeAlgoritmia-I)
+
+### Segundo ano
+
+- [Sistemas de Comunicações e Redes](https://github.com/PaulinhoRDC/SistemasDeComunicacoesERedes)
+- [Cálculo de Programas](https://github.com/PaulinhoRDC/CalculoProgramas)
+
+### Terceiro ano
+
+- [Base de Dados](https://github.com/PaulinhoRDC/BaseDeDados)
+- [Lógica Computacional](https://github.com/PaulinhoRDC/LogicaComputacional)
+- [Processamento de Linguagens e Compiladores](https://github.com/PaulinhoRDC/ProcessamentoDeLinguagensECompiladores)
+- [Interação e Concorrência](https://github.com/PaulinhoRDC/InteracaoEConcorrencia)
+- [Teoria de Números Computacional](https://github.com/PaulinhoRDC/TeoriaNumerosComputacional)
+- [Computação Gráfica](https://github.com/PaulinhoRDC/ComputacaoGrafica)
+_____________________________________________________ 
 
 <!--
 
