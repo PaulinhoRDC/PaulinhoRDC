@@ -42,7 +42,11 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 <br />
 <h2 align="left">📈 My GitHub Stats</h2>
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinhordc&theme=dark&show_icons=true&locale=en&layout=compact" alt="paulinhordc" /></p>
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhordc&theme=dracula&hide=Roff)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=paulinhordc&theme=dark&count_private=true&show_icons=true" alt="paulinhordc" width="50%"/>
 
 
