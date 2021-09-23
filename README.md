@@ -50,7 +50,7 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=paulinhordc&theme=dark&count_private=true&show_icons=true" alt="paulinhordc" width="50%"/>
 
 
-### 💻 Repositórios do curso Ciências da Computação na UMinho 💻
+<p>### 💻 Repositórios do curso Ciências da Computação na UMinho 💻
 __________________________
 ### Primeiro ano 
 
