@@ -58,6 +58,7 @@ __________________________
 ### Primeiro ano 
 
 - [Laboratórios de Algoritmia I](https://github.com/PaulinhoRDC/LaboratoriosDeAlgoritmia-I)
+- [Programação Funcional](https://github.com/PaulinhoRDC/ProgramacaoFuncional)
 
 ### Segundo ano
 
