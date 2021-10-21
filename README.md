@@ -62,6 +62,7 @@ __________________________
 
 ### Segundo ano
 
+- [Laboratórios de Algoritmia II](https://github.com/PaulinhoRDC/LaboratoriosDeAlgoritmia-II)
 - [Sistemas de Comunicações e Redes](https://github.com/PaulinhoRDC/SistemasDeComunicacoesERedes)
 - [Cálculo de Programas](https://github.com/PaulinhoRDC/CalculoProgramas)
 - [Programação Orientada aos Objetos](https://github.com/PaulinhoRDC/ProgramacaoOrientadaAosObjetos)
