@@ -5,6 +5,8 @@
 <br />
 <p>
 Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a>
+<img align='right' src="https://media.giphy.com/media/dyAFF3iGG9Lnu0M0ae/giphy.gif" width="230">
+
 </br>
 </p>
 
@@ -74,9 +76,6 @@ __________________________
 - [Sistemas de Comunicações e Redes](https://github.com/PaulinhoRDC/SistemasDeComunicacoesERedes)
 - [Cálculo de Programas](https://github.com/PaulinhoRDC/CalculoProgramas)
 - [Programação Orientada aos Objetos](https://github.com/PaulinhoRDC/ProgramacaoOrientadaAosObjetos)
-
- <img align='right' src="https://media.giphy.com/media/dyAFF3iGG9Lnu0M0ae/giphy.gif" width="230">
-
  
 ### Terceiro ano
 
