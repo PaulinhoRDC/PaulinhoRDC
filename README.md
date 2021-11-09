@@ -75,6 +75,9 @@ __________________________
 - [Cálculo de Programas](https://github.com/PaulinhoRDC/CalculoProgramas)
 - [Programação Orientada aos Objetos](https://github.com/PaulinhoRDC/ProgramacaoOrientadaAosObjetos)
 
+ <img align='right' src="https://media.giphy.com/media/dyAFF3iGG9Lnu0M0ae/giphy.gif" width="230">
+
+ 
 ### Terceiro ano
 
 - [Base de Dados](https://github.com/PaulinhoRDC/BaseDeDados)
