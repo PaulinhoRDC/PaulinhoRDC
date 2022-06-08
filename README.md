@@ -76,6 +76,8 @@ __________________________
 - [Sistemas de Comunicações e Redes](https://github.com/PaulinhoRDC/SistemasDeComunicacoesERedes)
 - [Cálculo de Programas](https://github.com/PaulinhoRDC/CalculoProgramas)
 - [Programação Orientada aos Objetos](https://github.com/PaulinhoRDC/ProgramacaoOrientadaAosObjetos)
+- [Sistemas Operativos](https://github.com/PaulinhoRDC/SistemasOperativos)
+
  
 ### Terceiro ano
 
