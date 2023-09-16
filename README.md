@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/PaulinhoRDC?label=Follow&style=social)](https://github.com/PaulinhoRDC)
 <br />
 <p>
-Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a> \n
+Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a><br />
 Currently working at <a href="https://www.accenture.com/pt-pt">Accenture Portugal</a>
 <img align='right' src="https://media.giphy.com/media/dyAFF3iGG9Lnu0M0ae/giphy.gif" width="230">
 
